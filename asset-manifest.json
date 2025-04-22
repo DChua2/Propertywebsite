@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Propertywebsite/static/css/main.4ed630c0.css",
-    "main.js": "/Propertywebsite/static/js/main.66a9f1d4.js",
+    "main.css": "/Propertywebsite/static/css/main.9e5b71bf.css",
+    "main.js": "/Propertywebsite/static/js/main.ef55e4db.js",
     "static/js/453.ad6eb26e.chunk.js": "/Propertywebsite/static/js/453.ad6eb26e.chunk.js",
     "index.html": "/Propertywebsite/index.html",
-    "main.4ed630c0.css.map": "/Propertywebsite/static/css/main.4ed630c0.css.map",
-    "main.66a9f1d4.js.map": "/Propertywebsite/static/js/main.66a9f1d4.js.map",
+    "main.9e5b71bf.css.map": "/Propertywebsite/static/css/main.9e5b71bf.css.map",
+    "main.ef55e4db.js.map": "/Propertywebsite/static/js/main.ef55e4db.js.map",
     "453.ad6eb26e.chunk.js.map": "/Propertywebsite/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ed630c0.css",
-    "static/js/main.66a9f1d4.js"
+    "static/css/main.9e5b71bf.css",
+    "static/js/main.ef55e4db.js"
   ]
 }
